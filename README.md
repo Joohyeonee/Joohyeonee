@@ -5,12 +5,19 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  
- 
+   <img src="https://img.shields.io/badge/c-blue?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=red"/></a>&nbsp
+  <img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
   <br>
- 
+  <img src="https://img.shields.io/badge/pytorch-red?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-E6B91E?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+  <br>
 </p>
-<br><br>
 <h3 align="center"> Github</h3>
 <p align="center">
   
@@ -23,9 +30,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joohyeonee&layout=compact&theme=dracula" />
   </a>
   </p>
-  
-  
-
   <br/><br/>
 
   [![Joohyeon's github stats](https://github-readme-stats.vercel.app/api?username=Joohyeonee)](https://github.com/Joohyeonee/github-readme-stats)
