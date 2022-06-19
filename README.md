@@ -12,7 +12,7 @@
   <br>
   <img src="https://img.shields.io/badge/pytorch-red?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/opencl-lightgreen?style=flat-square&logo=opencl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/opencl-lightgreen?style=flat-square&logo=OpenCL&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-lightgreen?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <br>
