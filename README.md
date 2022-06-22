@@ -22,7 +22,6 @@
   <br>
 </p>
 <br><br/>
-<h3 align="center"> Github</h3>
 <p align="center">
 </p>
 <br><br/>
