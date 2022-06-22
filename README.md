@@ -21,18 +21,13 @@
   <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
   <br>
 </p>
-<br><br/>
 <p align="center">
 </p>
-<br><br/>
 <p align="center">
   <a href="https://github.com/Joohyeonee/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joohyeonee&layout=compact&theme=default" />
   </a>
   </p>
-  
- 
-  <br/><br/>
 
   [![Joohyeon's github stats](https://github-readme-stats.vercel.app/api?username=Joohyeonee)](https://github.com/Joohyeonee/github-readme-stats)
   
