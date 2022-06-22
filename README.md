@@ -28,7 +28,7 @@
 <br><br/>
 <p align="center">
   <a href="https://github.com/Joohyeonee/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joohyeonee&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joohyeonee&layout=compact&theme=default" />
   </a>
   </p>
   
