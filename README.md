@@ -37,9 +37,9 @@
 
   [![Joohyeon's github stats](https://github-readme-stats.vercel.app/api?username=Joohyeonee)](https://github.com/Joohyeonee/github-readme-stats)
   
-  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joohyeonee&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joohyeonee&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=5194F0&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0&hide_border=true)
   
-  ![Github commits Graph](https://activity-graph.herokuapp.com/graph?username=Joohyeonee&bg_color=ffffff&color=fffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+  ![Github commits Graph](https://activity-graph.herokuapp.com/graph?username=Joohyeonee&bg_color=ffffff&color=5194F0&line=5194F0&point=5194F0&area_color=5194F0&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
  <div align=right>
 	
