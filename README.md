@@ -36,6 +36,10 @@
   <br/><br/>
 
   [![Joohyeon's github stats](https://github-readme-stats.vercel.app/api?username=Joohyeonee)](https://github.com/Joohyeonee/github-readme-stats)
+  
+  [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=szjung-test&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)]
+  
+  [![Github commits Graph](https://activity-graph.herokuapp.com/graph?username=Joohyeonee&bg_color=1c1917&color=fffff[…]hide_border=true&custom_title=GitHub%20Commits%20Graph)]
 
  <div align=right>
 	
@@ -45,3 +49,4 @@
   <br>
 </div>
 </div>
+
