@@ -5,20 +5,20 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/c++-darkblue?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/C++-darkblue?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=red"/></a>&nbsp
-  <img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ubuntu-red?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/pytorch-red?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/opencl-lightgreen?style=flat-square&logo=OpenCL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-red?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCL-lightgreen?style=flat-square&logo=OpenCL&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-lightgreen?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/r-E6B91E?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/docker-blue?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-E6B91E?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
   <br>
 </p>
 <br><br/>
