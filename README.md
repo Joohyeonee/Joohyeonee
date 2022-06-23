@@ -33,7 +33,7 @@
   
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joohyeonee&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
   
-  ![Github commits Graph](https://activity-graph.herokuapp.com/graph?username=Joohyeonee&bg_color=ffffff&color=5194F0&line=5194F0&point=5194F0&area_color=5194F0&area=true&custom_title=GitHub%20Commits%20Graph)
+  ![Github commits Graph](https://activity-graph.herokuapp.com/graph?username=Joohyeonee&bg_color=ffffff&color=5194F0&line=5194F0&point=5194F0&area_color=5194F0&hide_border=false&area=true&custom_title=Joohyeonee's%20Commits%20Graph)
 
  <div align=right>
 	
