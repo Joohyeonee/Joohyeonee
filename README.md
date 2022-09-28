@@ -13,11 +13,12 @@
   <img src="https://img.shields.io/badge/Pytorch-red?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCL-lightgreen?style=flat-square&logo=OpenGL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorRT-lightgreen?style=flat-square&logo=TensorRT&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-lightgreen?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-043829?style=flat-square&logo=Django&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>
   <img src="https://img.shields.io/badge/R-E6B91E?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
   <br>
