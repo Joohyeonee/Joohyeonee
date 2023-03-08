@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java&logoColor=red"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Pytorch-red?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCL-lightgreen?style=flat-square&logo=OpenGL&logoColor=white"/>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=lightgreen"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCL-lightgreen?style=flat-square&logo=OpenGL&logoColor=white"/>
